@@ -1,5 +1,6 @@
 
 # Vo Thanh Do
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vothanhdo-devops&show_icons=true&theme=tokyonight)
 - I'm Thanh Do from Soc Trang, Vietnam. I am a Student at Vien Dong College, majoring in Communication and Computer Networking. 
 - I look forward to being able to apply the knowledge gained during training and practice. Understanding some basic knowledge about the profession to be able to become a network engineer. Bring a lot of value, contribute to improve the quality for the company.
 ## Skills and Experience
