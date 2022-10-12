@@ -8,5 +8,6 @@
 *  Windows, Linux administration.
 *  Evaluate and troubleshoot.
 ##### Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vo-thanh-do-565a4023b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thsnhdo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/vothanhdo.devops) 
-[<img src='https://github.com/vothanhdo-devops/vothanhdo-devops/blob/a54278f3f9329ebacc3cd71ea30d1a692cf4e42f/lfs169-introduction-to-gitops.png>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vo-thanh-do-565a4023b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/thsnhdo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg' alt='gitlab' height='40'>](https://gitlab.com/vothanhdo.devops)
+
+<img src='https://github.com/vothanhdo-devops/vothanhdo-devops/blob/a54278f3f9329ebacc3cd71ea30d1a692cf4e42f/lfs169-introduction-to-gitops.png>
